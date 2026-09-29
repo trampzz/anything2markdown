@@ -1,0 +1,4 @@
+interface:
+  display_name: "File to Markdown"
+  short_description: "Turn PDFs, Office files, and images into Markdown"
+  default_prompt: "Use $file-to-markdown to convert this PDF, Office document, or image into Markdown."
